@@ -36,8 +36,7 @@ If no such city is found, City Not Found error will be shown on the screen.
 - Compile Entry.java and run it 
 - ```bash
   javac Entry.java```
-  ```bash
-- java Entry```
+  java Entry```
 
 
 
