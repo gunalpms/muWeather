@@ -35,6 +35,8 @@ If no such city is found, City Not Found error will be shown on the screen.
 - Make sure that all the files are in the same directory (IMPORTANT!!!)
 - Compile Entry.java and run it 
 ```bash
-  javac Entry.java```
+  javac Entry.java
   java Entry```
+  
+ - An executable version will probably never come due to language constraints.
 
