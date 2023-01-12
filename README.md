@@ -1,9 +1,9 @@
 # muWeather
-##muWeather project app
+## muWeather project app
 
-###muWeather is a weather app written using Java Swing UI for its frontend and Python for its backend. It uses openweathermap.org's api to retrieve weather data information.
+### muWeather is a weather app written using Java Swing UI for its frontend and Python for its backend. It uses openweathermap.org's api to retrieve weather data information.
 
-###Retrieved data:
+### Retrieved data:
 
 - Temperature
 - Humidity
@@ -12,12 +12,12 @@
 - Wind Direction
 - Weather Description
 
-###Usage:
+### Usage:
 
 Simply enter a city name such as "Istanbul". If such a city is found, the information for the city will be displayed. 
 If no such city is found, City Not Found error will be shown on the screen.
 
-###Execution:
+### Execution:
 
 #### Requirements:
 
@@ -35,7 +35,8 @@ If no such city is found, City Not Found error will be shown on the screen.
 - Make sure that all the files are in the same directory (IMPORTANT!!!)
 - Compile Entry.java and run it 
 - ```bash
-  javac Entry.java
+  javac Entry.java```
+  ```bash
 - java Entry```
 
 
